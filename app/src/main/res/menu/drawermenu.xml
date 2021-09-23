@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    android:checkableBehavior="single">
+    <group
+        android:id="@+id/groupGlowna"
+        android:checkableBehavior="single"
+        android:visible="true">
+        <item
+            android:id="@+id/glowna"
+            android:icon="@drawable/ic_glowna"
+            android:title="Strona główna"
+            android:visible="true"/>
+    </group>
+    <group
+        android:id="@+id/groupRepertuar"
+        android:checkableBehavior="single"
+        android:visible="false">
+        <item
+            android:id="@+id/repertuar"
+            android:icon="@drawable/ic_repertuar"
+            android:title="Repertuar"
+            android:visible="true"/>
+
+        <item
+            android:id="@+id/kalendarium"
+            android:title="Kalendarium"
+            android:visible="false"/>
+        <item
+            android:id="@+id/spektakle"
+            android:title="Spektakle"
+            android:visible="false"/>
+    </group>
+    <group
+        android:id="@+id/groupBilety"
+        android:checkableBehavior="single"
+        android:visible="false">
+        <item
+            android:id="@+id/bilety"
+            android:icon="@drawable/ic_bilety"
+            android:title="Bilety"
+            android:visible="true"/>
+
+        <item
+            android:id="@+id/sprzedaz"
+            android:title="Sprzedaz"
+            android:visible="false"/>
+        <item
+            android:id="@+id/cennik"
+            android:title="Cennik"
+            android:visible="false"/>
+    </group>
+    <group
+        android:id="@+id/groupTeatr"
+        android:checkableBehavior="single"
+        android:visible="false">
+        <item
+            android:id="@+id/o_teatrze"
+            android:icon="@drawable/ic_o_teatrze"
+            android:title="O teatrze"
+            android:visible="true"/>
+
+        <item
+            android:id="@+id/galeria_plakatu"
+            android:title="Galeria Plakatu"
+            android:visible="false"/>
+        <item
+            android:id="@+id/zespoly"
+            android:title="Zespoły"
+            android:visible="false"/>
+
+    </group>
+    <group
+        android:id="@+id/groupKontakt"
+        android:checkableBehavior="single"
+        android:visible="true">
+        <item
+            android:id="@+id/kontakt"
+            android:icon="@drawable/ic_kontakt"
+            android:title="Kontakt"
+            android:visible="true"/>
+    </group>
+
+
+</menu>

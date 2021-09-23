@@ -1,0 +1,246 @@
+<resources>
+    <string name="app_name">TeatrWielkiWLodzi</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="app_name_spaces">Teatr Wielki W Łodzi</string>
+
+    <string name="kontakt_dane_1">Plac Dąbrowskiego, 90–249 Łódź\ntel. centrala 42 647 20 00\ntel./fax 42 631 95 52\n\nNIP: 724-000-17-93\nRegon: 000279195</string>
+    <string name="kontakt_dane_2">Sekretariat</string>
+    <string name="kontakt_dane_3">tel. 42 636 22 72\nfax. 42 631 95 52\ne-mail: teatr@teatr-wielki.lodz.pl</string>
+    <string name="kontakt_dane_4">Dojazd</string>
+    <string name="kontakt_dane_5">linie autobusowe: 53A, 53B, 53C, 53D, 53E, 57, 85A, 85B, 96, N7\nlinie tramwajowe: 9A, 9B, 12, 13</string>
+    <string name="kontakt_dane_6">Parking</string>
+    <string name="kontakt_dane_7">Teatr Wielki w Łodzi nie zapewnia widzom osobnego parkingu. Wokół Teatru (przy ul. Jaracza oraz na pl. Dąbrowskiego przy Sądzie Okręgowym) znajduje się ogólnodostępny miejski parking płatny (do godziny 18.00 w dniach od poniedziałku do piątku). Najbliższy parking bezpłatny znajduje się przy ul. Jaracza 59. Ponadto na pobliskim Dworcu Fabrycznym mieści się parking na 960 samochodów.</string>
+    <string name="kontakt_dane_8">Lista kontaktów</string>
+
+    <string name="kontakt_dane_tabela_1_imie">Maciej Bargiełowski</string>
+    <string name="kontakt_dane_tabela_1_stanowisko">zastępca dyrektora ds. administracyjnych</string>
+    <string name="kontakt_dane_tabela_1_telefon">tel. 42 639 87 48</string>
+    <string name="kontakt_dane_tabela_1_email"> </string>
+
+    <string name="kontakt_dane_tabela_2_imie">Krzysztof Bogusz</string>
+    <string name="kontakt_dane_tabela_2_stanowisko">zastępca dyrektora ds. produkcji</string>
+    <string name="kontakt_dane_tabela_2_telefon">tel. 42 631 96 88</string>
+    <string name="kontakt_dane_tabela_2_email">technika@teatr-wielki.lodz.pl</string>
+
+    <string name="kontakt_dane_tabela_3_imie">Elżbieta Żeromińska</string>
+    <string name="kontakt_dane_tabela_3_stanowisko">główna księgowa</string>
+    <string name="kontakt_dane_tabela_3_telefon">tel. 42 647 21 81</string>
+    <string name="kontakt_dane_tabela_3_email"> </string>
+
+    <string name="spektakl_1_tytul">NIESTRASZNY STRASZNY DWÓR - widowisko w plenerze</string>
+    <string name="spektakl_1_opis">Takiej prezentacji dzieła Moniuszki  jeszcze nie było! Plac Dąbrowskiego, gmach Teatru z otaczającymi go plenerami to spektakularnie oświetlone tło, które wraz z elektronicznymi projekcjami na telebimach niejako uzupełni żywą muzykę, śpiew i taniec znakomitych wykonawców – solistów, chóru, baletu i orkiestry Teatru Wielkiego w Łodzi.\n\nWidowisko będące opowieścią o dziele Moniuszki zaplątanym w tragiczne dzieje Polski. Opowieść  o pisaniu opery w odruchu serca Pana Stanisława, który widząc z okien mieszkania na Krakowskim Przedmieściu klęskę powstania styczniowego, zaczyna śnić o Polsce wielkiej i wspaniałej, o rycerzach wracających w chwale ze zwycięskich bitew, o tradycji i prawdziwym polskim domu; o zajazdach noworocznych, tańcach, waśniach i kłótniach także.</string>
+
+    <string name="spektakl_2_tytul">100 PIEŚNI NA 100 LAT NIEPODLEGŁOŚCI - koncert</string>
+    <string name="spektakl_2_opis">Pośród wielu planowanych i jakże różnych – często wzniosłych i spektakularnych – form upamiętnienia 100-lecia odzyskania niepodległości, wierzymy, że i nasza propozycja – kameralna i nastrojowa – spotka się z Państwa zainteresowaniem i chęcią w niej uczestnictwa. 100 pieśni na 100-lecie niepodległości to cykl koncertów w Sali Kameralnej, w których czołowi soliści naszego Teatru bez zbędnego patosu i „od siebie” spróbują przekazać to, co najpiękniejsze pieśni polskich poetów i kompozytorów mówią o tym co polskie i ojczyźniane, ale też o sprawach pozornie błahych; o troskach i radościach, wielkich i małych uczuciach, o ideach wzniosłych i tych całkiem przyziemnych, słowem – o nas samych. Będzie więc bardzo po polsku: rubasznie i z humorem, z refleksją i filozoficzną zadumą.</string>
+
+    <string name="spektakl_3_tytul">AIDA - opera</string>
+    <string name="spektakl_3_opis">Opera w czterech aktach. Spektakl w języku w włoskim z napisami w języku polskim.\nAIDA – piękna, monumentalna opera została zamówiona w 1869 r. przez Ismailia Paszę, chedywa Egiptu na uroczyste otwarcie Kanału Sueskiego. Początkowo Verdi nie był zainteresowany tematyką libretta, ale bajeczne honorarium w wysokości 150 tys. franków w złocie i wolna ręka w doborze wykonawców wszystkich ról szybko przekonały go do współpracy. W tych komfortowych warunkach powstało dzieło ponadczasowe i niezapomniane. Prapremiera odbyła się w naturalnej scenerii – w Kairze 24 grudnia 1871 roku.</string>
+
+    <string name="spektakl_4_tytul">BARON CYGAŃSKI</string>
+    <string name="spektakl_4_opis">BARON CYGAŃSKI to jedna z najsłynniejszych operetek i zarazem największy sukces jej kompozytora. Podczas prawykonania entuzjazm publiczności był tak ogromny, że spektakl niemal w całości został zagrany na bis. Strauss skomponował muzykę pełną lekkości i wdzięku. Powodowany pragnieniem napisania prawdziwej opery, bazował na rozbudowanych partiach wokalnych. Akcja umieszczona została w efektownych sceneriach, w których egzotyka cygańskiego folkloru przeplata się z przepychem wiedeńskich salonów. Reżyser Tomasz Konina, wychodząc naprzeciw ambicjom Straussa, zrealizował spektakl z ogromnym rozmachem. Libretto zinterpretował przy tym w sposób tak niebanalny, że perypetie bohaterów – obok wyśmienitej rozrywki – dostarczają widzom wielu powodów do refleksji. Fabułę przeniesiono z wieku XVIII w dwudziestolecie międzywojenne, a obok cygańskiego taboru i skrzyni pełnej skarbów, pojawił się prowincjonalny cyrk i kabaret niczym z filmu Boba Fosse a. „W roztańczonym, szalonym spektaklu” – napisał reżyser – „czuć atmosferę zagrożenia i zbliżającej się II wojny światowej, gdzie każdy z bohaterów będzie musiał się odnaleźć i określić swoje miejsce”.</string>
+
+
+    <string name="sprzedaz_info_1">Biuro Obsługi Widzów</string>
+    <string name="sprzedaz_info_2">czynne od poniedziałku do piątku: 8:00 - 16:00\ntel. 42 633 31 86\ntel./fax: 42 639 87 49</string>
+    <string name="sprzedaz_info_3">widz@teatr-wielki.lodz.pl</string>
+
+    <string name="sprzedaz_info_4">Kasy Biletowe</string>
+    <string name="sprzedaz_info_5">czynne od poniedziałku do soboty: 12:00 - 19:00\nniedziele i święta (gdy grane jest przedstawienie): 15:00 - 19:00\ntel. 42 633 77 77</string>
+
+    <string name="sprzedaz_info_6">Istnieje możliwość kupna biletów on-line przez portal Bilety24.pl\nInformujemy, że sprzedaż biletów on-line kończy się na 60 min przed rozpoczęciem spektaklu.\nPo tym czasie, w miarę dostępności, bilety można będzie nabyć w kasach Teatru.</string>
+    <string name="sprzedaz_info_7">Konto bankowe do płatności przelewem za bilety:</string>
+    <string name="sprzedaz_info_8">Bank Spółdzielczy\nw Aleksandrowie Łódzkim oddział w Łodzi\n63 8780 0007 0030 3114 1003 0104</string>
+    <string name="sprzedaz_info_9">W tytule przelewu prosimy o wpisanie nazwiska i nazwy instytucji, na które została złożona rezerwacja oraz datę i tytuł spektaklu. W przypadku płatności przelewem podstawą do wydania biletu jest okazanie potwierdzenia przelewu (wydruku).</string>
+
+    <string name="sprzedaz_info_10p">KARTA PODARUNKOWA\nTeatru Wielkiego w Łodzi</string>
+    <string name="sprzedaz_info_11p">Karty podarunkowe, wydane na okaziciela, uprawniają ich posiadacza do wymiany w kasach Teatru Wielkiego w Łodzi na jednoosobowy bilet wstępu (w wyznaczonych strefach) na spektakle i koncerty Teatru Wielkiego w Łodzi. Karty dostępne będą w nowym sezonie 2019/2020 r. Zachęcamy do śledzenia naszego repertuaru.</string>
+
+    <string name="sprzedaz_info_10">KARTA RABATOWA MŁODZI W ŁODZI</string>
+    <string name="sprzedaz_info_11">Posiadaczom karty Młodzi w Łodzi przysługuje zniżka 8 zł od ceny biletu ulgowego na wydarzenia organizowane przez Teatr Wielki w Łodzi (za wyjątkiem spektakli premierowych, jednorazowych koncertów, imprez gościnnych, spektakli zamkniętych, wydarzeń specjalnych, spektakli wieczoru sylwestrowego.</string>
+
+    <string name="sprzedaz_info_12">AKCJA TANIEJ Z MIGAWKĄ</string>
+    <string name="sprzedaz_info_13">Okazując „migawkę”, mogą Państwo kupić dwa bilety normalne w cenie ulgowych na wybrane przedstawienia naszego teatru. Oferta nie dotyczy premier, pokazów specjalnych i imprez gościnnych. Aby skorzystać ze zniżki, należy pokazać w kasie „migawkę” wraz z dowodem zakupu, na którym jest wydrukowana data ważności biletu.</string>
+
+
+    <string name="cennik_info_1">Cennik obowiązujący na spektakle grane od 1 stycznia 2019:</string>
+    <string name="cennik_info_2">Prawo do nabycia biletu ulgowego przysługuje:</string>
+    <string name="cennik_info_3">uczniom szkół podstawowych, gimnazjów, ponadgimnazjalnych, słuchaczom szkół policealnych na podstawie ważnej legitymacji szkolnej (z wyłączeniem premier, wydarzeń specjalnych i imprez obcych).\n\nstudentom I i II stopnia do 26 roku życia na podstawie ważnej legitymacji studenckiej\n(z wyłączeniem premier, wydarzeń specjalnych i imprez obcych).\n\nemerytom i rencistom na podstawie dokumentu potwierdzającego pobieranie świadczenia wraz z dowodem tożsamości (z wyłączeniem premier, wydarzeń specjalnych i imprez obcych).\n\nosobom niepełnosprawnym na podstawie dokumentu orzekającego o niepełnosprawności \n(z wyłączeniem premier, wydarzeń specjalnych i imprez obcych).</string>
+
+
+    <string name="plakat_4_autor_sztuki">Johann Strauss</string>
+    <string name="plakat_4_tytul_sztuki">BARON CYGAŃSKI</string>
+    <string name="plakat_4_autor_plakatu">Piotr Karczewski</string>
+    <string name="plakat_4_data_plakatu">sezon 2014/2015</string>
+
+    <string name="plakat_5_autor_sztuki">Giuseppe Verdi</string>
+    <string name="plakat_5_tytul_sztuki">RIGOLETTO</string>
+    <string name="plakat_5_autor_plakatu">Mariusz Andryszczyk</string>
+    <string name="plakat_5_data_plakatu">sezon 2017/2018</string>
+
+    <string name="plakat_6_autor_sztuki">André Previn</string>
+    <string name="plakat_6_tytul_sztuki">TRAMWAJ ZWANY POŻĄDANIEM</string>
+    <string name="plakat_6_autor_plakatu">Mariusz Andryszczyk</string>
+    <string name="plakat_6_data_plakatu">sezon 2017/2018</string>
+
+    <string name="plakat_7_autor_sztuki">Carl Orff, Hans Zimmer</string>
+    <string name="plakat_7_tytul_sztuki">ŚCIEŻKI ŻYCIA</string>
+    <string name="plakat_7_autor_plakatu">Piotr Karczewski</string>
+    <string name="plakat_7_data_plakatu">sezon 2017/2018</string>
+
+    <string name="plakat_8_autor_sztuki">Maciej Pawłowski</string>
+    <string name="plakat_8_tytul_sztuki">LAMAILA</string>
+    <string name="plakat_8_autor_plakatu">Blanka Tomaszewska</string>
+    <string name="plakat_8_data_plakatu">sezon 2016/2017</string>
+
+    <string name="plakat_9_autor_sztuki">Giacomo Puccini</string>
+    <string name="plakat_9_tytul_sztuki">TURANDOT</string>
+    <string name="plakat_9_autor_plakatu">stuffstudio</string>
+    <string name="plakat_9_data_plakatu">sezon 2015/2016</string>
+
+    <string name="plakat_10_autor_sztuki">Johann Strauss</string>
+    <string name="plakat_10_tytul_sztuki">NOC W WENECJI</string>
+    <string name="plakat_10_autor_plakatu">Blanka Tomaszewska</string>
+    <string name="plakat_10_data_plakatu">sezon 2015/2016</string>
+
+    <string name="plakat_11_autor_sztuki">Fryderyk Chopin</string>
+    <string name="plakat_11_tytul_sztuki">CHOPIN WYMARZONY</string>
+    <string name="plakat_11_autor_plakatu">Piotr Karczewski</string>
+    <string name="plakat_11_data_plakatu">sezon 2014/2015</string>
+
+    <string name="plakat_12_autor_sztuki">Piotr Czajkowski</string>
+    <string name="plakat_12_tytul_sztuki">EUGENIUSZ ONIEGIN</string>
+    <string name="plakat_12_autor_plakatu">Piotr Karczewski</string>
+    <string name="plakat_12_data_plakatu">sezon 2016/2017</string>
+
+    <string name="plakat_13_autor_sztuki">S. Moniuszko</string>
+    <string name="plakat_13_tytul_sztuki">STRASZNY DWÓR</string>
+    <string name="plakat_13_autor_plakatu">Ryszard Kaja</string>
+    <string name="plakat_13_data_plakatu">sezon 2014/2015</string>
+
+    <string name="plakat_14_autor_sztuki">B. Pawłowski / W. Borkowski</string>
+    <string name="plakat_14_tytul_sztuki">KRÓLEWNA ŚNIEŻKA</string>
+    <string name="plakat_14_autor_plakatu">Piotr Karczewski</string>
+    <string name="plakat_14_data_plakatu">sezon 2010/2011</string>
+
+    <string name="plakat_15_autor_sztuki">P. Czajkowski</string>
+    <string name="plakat_15_tytul_sztuki">DAMA PIKOWA</string>
+    <string name="plakat_15_autor_plakatu">Jarek Mazurek</string>
+    <string name="plakat_15_data_plakatu">sezon 2010/2011</string>
+
+    <string name="plakat_16_autor_sztuki">S. Stroman / J. Weidman</string>
+    <string name="plakat_16_tytul_sztuki">CONTACT</string>
+    <string name="plakat_16_autor_plakatu">Piotr Karczewski</string>
+    <string name="plakat_16_data_plakatu">sezon 2009/2010</string>
+
+    <string name="plakat_17_autor_sztuki">A. Dworzak</string>
+    <string name="plakat_17_tytul_sztuki">RUSAŁKA</string>
+    <string name="plakat_17_autor_plakatu">Jarek Mazurek</string>
+    <string name="plakat_17_data_plakatu">sezon 2009/2010</string>
+
+    <string name="plakat_18_autor_sztuki">S. Moniuszko</string>
+    <string name="plakat_18_tytul_sztuki">HALKA</string>
+    <string name="plakat_18_autor_plakatu">Iwona Marchewka</string>
+    <string name="plakat_18_data_plakatu">sezon 2006/2007</string>
+
+    <string name="plakat_19_autor_sztuki">G. Verdi</string>
+    <string name="plakat_19_tytul_sztuki">MAKBET</string>
+    <string name="plakat_19_autor_plakatu">Marian Tarczyński</string>
+    <string name="plakat_19_data_plakatu">sezon 2004/2005</string>
+
+    <string name="plakat_20_autor_sztuki">G. Verdi</string>
+    <string name="plakat_20_tytul_sztuki">TRAVIATA</string>
+    <string name="plakat_20_autor_plakatu">Mariusz Chwedczuk</string>
+    <string name="plakat_20_data_plakatu">sezon 1986/1987</string>
+
+
+    <string name="wiecej">więcej >></string>
+    <string name="powrot">powrót</string>
+
+    <string name="osoba_1_imie">ALEKSANDRA BORKIEWICZ</string>
+    <string name="osoba_1_rola">Soprany</string>
+    <string name="osoba_1_opis">Sopran liryko - koloraturowy, ur. w Łodzi. Ukończyła studia magisterskie z wyróżnieniem na wydziale wokalno – aktorskim Akademii Muzycznej im. Grażyny i Kiejstuta Bacewiczów w Łodzi, w klasie prof. Urszuli Kryger i dr Bernadetty Grabias.\nNa scenie debiutowała w roku 2010 rolą Solange, w światowej prapremierze opery Kochankowie z klasztoru Valldemosa M. Ptaszyńskiej, na deskach Teatru Wielkiego w Łodzi. Z Teatrem Wielkim w Łodzi współpracuje w takich produkcjach jak Cyrulik Sewilski G. Rossiniego, Rigoletto G. Verdiego, Don Giovanni W. A. Mozarta, Halka S. Moniuszki, Straszny Dwór S. Moniuszki, Carmen G. Bizet, Noc w Wenecji J. Straussa, Zemsta Nietoperza J. Straussa, Baron Cygański J. Straussa, My Fair Lady F. Loewe, Człowiek z Manufaktury R. Janiaka, Viva la mamma G. Donizettiego.</string>
+
+    <string name="osoba_2_imie">MONIKA CICHOCKA</string>
+    <string name="osoba_2_rola">Soprany</string>
+    <string name="osoba_2_opis">Ukończyła z wyróżnieniem Akademię Muzyczną we Wrocławiu, w klasie prof. Danuty Paziukówny jako stypendystka Ministra Kultury i Sztuki. Karierę wokalną rozpoczęła mając siedemnaście lat. Uczestniczyła w rozlicznych kursach mistrzowskich prowadzonych przez Adele Stolte, Birgit Nilsson, Helenę Łazarską. Za wyjątkowo inspirującą uważa współpracę z Markiem Dyżewskim.\n\nJest laureatką Międzynarodowych Konkursów Wokalnych w Genewie i Tuluzie (jednogłośne I Grand Prix). Z pasją śpiewa zarówno opery, jak i symfonikę, oratoria, kantaty i lirykę wokalną. Nagrała płytę CD z oratoriami W.A. Mozarta (z udziałem chóru Stuligrosza i orkiestrą Sinfonia Varsovia). Koncertowała w Polsce, Niemczech, Włoszech, Francji, Holandii, Luksemburgu, Belgii, Danii, Austrii, Hiszpanii, Szwajcarii i Monte Carlo. Występowała na wielu świetnych festiwalach, takich jak „Wratislavia Cantans", „Warszawska Jesień", „Tivoli Festival" w Kopenhadze, Festiwal Operowy w Xanten, jej występ inaugurował też Olimpiadę Kulturalną w Barcelonie.</string>
+
+    <string name="osoba_3_imie">DOMINIK SUTOWICZ</string>
+    <string name="osoba_3_rola">Tenory</string>
+    <string name="osoba_3_opis">W 2008 roku ukończył Akademię Muzyczną im. Grażyny i Kiejstuta Bacewiczów w Łodzi w klasie śpiewu solowego u prof. Andrzeja Niemierowicza. Jeszcze w tym samym roku został zaangażowany jako solista w Teatrze Wielkim w Łodzi, gdzie zadebiutował partią Freda Eynsford-Hilla w musicalu My Fair Lady F. Loewego. Uczestniczył w kursach wokalnych prowadzonych przez m.in.: Helenę Łazarską, Kałudi Kałudowa, Piotra Kusiewicza.\n\nRepertuar artysty obejmuje partie m.in.: Maxa (Wolny Strzelec, C. M. von Weber), Cavaradossiego (Tosca, G. Puccini), Pinkertona (Madama Butterfly, G. Puccini), Manrica (Trubadur, G. Verdi), Sternika (Latający Holender, R. Wagner), Stefana (Straszny dwór, S. Moniuszko), Gastona (Traviata, G. Verdi), Ismaela (Nabucco, G.Verdi), Sandora Barinkaya (Baron cygański, J. Strauss). Oprócz muzyki operowej wykonuje dzieła oratoryjne, takie jak Requiem G. Verdiego czy Msza Koronacyjna C-dur W. A. Mozarta. Druga z kompozycji, wykonana pod dyrekcją H. Wierzchonia, została zarejestrowana i wydana w formie płyty. Z sukcesem uczestniczy w licznych konkursach i festiwalach. Uzyskał m.in. pierwsze wyróżnienie na I Festiwalu Włoskiej Muzyki Operowej Belcanto Per Sempre.</string>
+
+
+
+    <string name="buyTicketString">Kup bilet</string>
+
+    <string name="kalendarium_1_miesiac">Luty 2020</string>
+    <string name="kalendarium_2_miesiac">Marzec 2020</string>
+    <string name="kalendarium_3_miesiac">Październik 2020</string>
+    
+    <string name="kalendarium_1_1_title">SAMSON I DALILA</string>
+    <string name="kalendarium_1_1_date">02.02\nniedziela\n18:00</string>
+    <string name="kalendarium_1_1_description"><i>opera</i>Bilety:\nStrefa I: 60/50\nStrefa II: 50/45\nStrefa III: 36/30\nStrefa IV: 25</string>
+
+    <string name="kalendarium_1_2_title">DZIADEK DO ORZECHÓW</string>
+    <string name="kalendarium_1_2_date">06.02\nczwartek\n11:00</string>
+    <string name="kalendarium_1_2_description"><i>balet</i>\n\n<b> SPEKTAKL GRANY PO RAZ 70.</b>\n\nBilety:\nStrefa I: 60/50\nStrefa II: 50/45\nStrefa III: 36/30\nStrefa IV: 25</string>
+
+    <string name="kalendarium_1_3_title">DZIADEK DO ORZECHÓW</string>
+    <string name="kalendarium_1_3_date">06.02\nczwartek\n18:00</string>
+    <string name="kalendarium_1_3_description"><i>balet</i>\n\n<b> SPEKTAKL GRANY PO RAZ 71.</b>\n\nBilety:\nStrefa I: 60/50\nStrefa II: 50/45\nStrefa III: 36/30\nStrefa IV: 25</string>
+
+    <string name="kalendarium_1_4_title">DZIADEK DO ORZECHÓW</string>
+    <string name="kalendarium_1_4_date">07.02\npiątek\n18:00</string>
+    <string name="kalendarium_1_4_description"><i>balet</i>\n\n<b> SPEKTAKL GRANY PO RAZ 72.</b>\n\nBilety:\nStrefa I: 60/50\nStrefa II: 50/45\nStrefa III: 36/30\nStrefa IV: 25</string>
+
+
+    <string name="kalendarium_2_1_title">GREK ZORBA</string>
+    <string name="kalendarium_2_1_date">01.03\nniedziela\n19:00</string>
+    <string name="kalendarium_2_1_description"><i>balet</i>\n\n<b>PREMIERA I</b></string>
+
+    <string name="kalendarium_2_2_title">BARON CYGAŃSKI</string>
+    <string name="kalendarium_2_2_date">05.03\nczwartekn\18:30</string>
+    <string name="kalendarium_2_2_description">Bilety:\nStrefa I: 60/50\nStrefa II: 50/45\nStrefa III: 36/30\nStrefa IV: 25</string>
+
+    <string name="kalendarium_2_3_title">BARON CYGAŃSKI</string>
+    <string name="kalendarium_2_3_date">06.03\npiatekn\18:30</string>
+    <string name="kalendarium_2_3_description">Bilety:\nStrefa I: 65/55\nStrefa II: 55/45\nStrefa III: 40/30\nStrefa IV: 25</string>
+
+    <string name="kalendarium_2_4_title">BARON CYGAŃSKI</string>
+    <string name="kalendarium_2_4_date">07.03\nsobotan\18:30</string>
+    <string name="kalendarium_2_4_description">Bilety:\nStrefa I: 65/55\nStrefa II: 55/45\nStrefa III: 40/30\nStrefa IV: 25</string>
+
+
+    <string name="kalendarium_3_1_title">PIKANTNI</string>
+    <string name="kalendarium_3_1_date">05.10\nponiedziałek\n17:00</string>
+    <string name="kalendarium_3_1_description">Wydarzenie z dnia 26.04.2020. tytuł „Pikantni” Zostaje przeniesione na dzień 05.10.2020\nUWAGA: nowe godziny wydarzenia: \n17:00 (zamiast 16:00)</string>
+
+    <string name="kalendarium_3_2_title">PIKANTNI</string>
+    <string name="kalendarium_3_2_date">05.10\nponiedziałek\n20:00</string>
+    <string name="kalendarium_3_2_description">Wydarzenie z dnia 26.04.2020. tytuł „Pikantni” Zostaje przeniesione na dzień 05.10.2020\nUWAGA: nowe godziny wydarzenia: \n20:00 (zamiast 19:00)</string>
+
+    <string name="kalendarium_3_3_title">NIESTRASZNY STRASZNY DWÓR</string>
+    <string name="kalendarium_3_3_date">09.10\npiątek\n21:00</string>
+    <string name="kalendarium_3_3_description">Bilety:\nStrefa I: 65/55\nStrefa II: 55/45\nStrefa III: 40/30\nStrefa IV: 25</string>
+
+    <string name="kalendarium_3_4_title">NIESTRASZNY STRASZNY DWÓR</string>
+    <string name="kalendarium_3_4_date">10.10\nsobota\n21:00</string>
+    <string name="kalendarium_3_4_description">Bilety:\nStrefa I: 65/55\nStrefa II: 55/45\nStrefa III: 40/30\nStrefa IV: 25</string>
+
+
+    <string name="main_news_1_title">Andrzej Saciuk - odeszła legenda, pamięć pozostaje...</string>
+    <string name="main_news_1_date">12.05.2020</string>
+    <string name="main_news_1_text">Z wielkim smutkiem i żalem przekazujemy informację, że dziś w nocy zmarł Andrzej Saciuk. Miał 87 lat, ale kiedy odwiedzał nasz Teatr - o wiele mniej! Zawsze uśmiechnięty, życzliwy dla wszystkich, skarbnica wiedzy i wspaniałych opowieści. Znakomity Śpiewak, Pedagog i niestrudzony propagator sztuki wokalnej – legenda łódzkiej i niemieckich scen operowych, wyróżniony prestiżowym tytułem Kammersänger odszedł zostawiając po sobie obszerny i ważny rozdział w historii polskiej opery.</string>
+
+    <string name="main_news_2_title">WYŚPIEWAJ NAGRODY zabierz klasę do opery!</string>
+    <string name="main_news_2_date">8.05.2020</string>
+    <string name="main_news_2_text">Teatr Wielki w Łodzi ogłasza konkurs dla uczniów szkół podstawowych  i  średnich, w którym każdy z  Was będzie mógł wygrać nagrodę nie tylko dla siebie. Wyśpiewana nagroda to bilety dla całej klasy na spektakl z repertuaru naszego Teatru oczywiście po zakończeniu okresu epidemii koronawirusa.</string>
+
+    <string name="main_news_3_title">Informacja dla posiadaczy karnetów premierowych</string>
+    <string name="main_news_3_date">8.05.2020</string>
+    <string name="main_news_3_text">Szanowni Państwo, zgodnie z rozporządzeniem Ministra Zdrowia z dnia 20 marca 2020 r. w sprawie ogłoszenia na obszarze Rzeczypospolitej Polskiej stanu epidemii do odwołania obowiązuje czasowe ograniczenie działalności twórczej związanej z wszelkimi zbiorowymi formami kultury i rozrywki.</string>
+
+</resources>

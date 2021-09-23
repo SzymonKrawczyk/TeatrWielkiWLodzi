@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="MainRed">#B50000</color>
+    <color name="MainBlack">#1C1A1A</color>
+    <color name="MainWhite">#FFFFFF</color>
+    <color name="MainGrayLight">#F8F8F8</color>
+    <color name="MainGray">#BBBBBB</color>
+    <color name="MainGrayDark">#777777</color>
+    <color name="MainBrown">#3F3939</color>
+
+    <color name="MainBlue">#000080</color>
+    <color name="MainGreen">#008000</color>
+    <color name="MainYellow">#DAA520</color>
+</resources>
