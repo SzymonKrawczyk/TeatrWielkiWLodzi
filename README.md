@@ -1,4 +1,4 @@
-# Website of Teeatr Wielki w Łodzi remade as an app
+# Website of Teeatr Wielki w Łodzi remade as an Android app
 
 Original webiste: http://www.operalodz.com/
 
